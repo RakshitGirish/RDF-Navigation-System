@@ -1,5 +1,0 @@
-streamlit>=1.28.0
-pandas>=1.5.0
-rdflib>=6.3.0
-networkx>=3.0
-pyvis>=0.3.2 
